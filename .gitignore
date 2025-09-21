@@ -1,2 +1,5 @@
 .DS_Store
 stateful/backend/node_modules/
+scheduler/server/node_modules/
+stateful/backend/.env
+scheduler/server/.env
